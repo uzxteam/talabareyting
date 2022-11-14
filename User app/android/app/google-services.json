@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862152512683",
+    "project_id": "dehkanbaba-uz",
+    "storage_bucket": "dehkanbaba-uz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862152512683:android:d7c5e62fcbbb047d44d3ee",
+        "android_client_info": {
+          "package_name": "com.dehkanbaba.uz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862152512683-vb0h31h6u0l8d5qdjimabhi4l7hnls45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsgcurzbhDPl108JdyP9ukwrYXLEibDP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862152512683-vb0h31h6u0l8d5qdjimabhi4l7hnls45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

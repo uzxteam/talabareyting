@@ -1,0 +1,65 @@
+name: sixam_mart_store
+description: An application for multivendor ecommerce restaurant.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.1
+  shared_preferences: ^2.0.6
+  connectivity: ^3.0.6
+  firebase_core: ^1.2.1
+  firebase_messaging: ^11.2.4
+  flutter_local_notifications: ^9.5.3+1
+  path_provider: ^2.0.2
+  url_strategy: ^0.2.0
+  shimmer_animation: ^2.0.0
+  image_picker: ^0.8.0+4
+  http: ^0.13.3
+  pin_code_fields: ^7.2.0
+  url_launcher: ^6.1.2
+  vibration: 1.7.4-nullsafety.0
+  audioplayers: ^0.20.1
+  flutter_switch: ^0.3.2
+  flutter_typeahead: ^4.0.0
+  phone_number: ^0.12.0+1
+  country_code_picker: ^2.0.2
+  flutter_html: ^2.2.1
+  bluetooth_thermal_printer: ^0.0.6
+  esc_pos_utils: ^1.0.0
+  photo_view: ^0.13.0
+  image_compression_flutter: ^1.0.2
+  win32: ^2.6.1
+  modal_bottom_sheet: ^2.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/image/
+    - assets/language/
+    - assets/notification.mp3
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/font/Roboto-Regular.ttf
+          weight: 400
+        - asset: assets/font/Roboto-Medium.ttf
+          weight: 500
+        - asset: assets/font/Roboto-Bold.ttf
+          weight: 700
+        - asset: assets/font/Roboto-Black.ttf
+          weight: 900
