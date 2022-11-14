@@ -5,7 +5,7 @@ Agriculture Hackathon-2022
 •	Meva va sabzavotlar sifatini nazorat qiladi
 •	Online va naqd pul orqali to`lash
                     Afzalliklar(Nega aynan biz)
-•          B2C da tez vaqtda yetkazib berish
+• B2C da tez vaqtda yetkazib berish
 •	Arzon narxda yetkazib berish
 •	Shaxsiy omborimizdan yetkazib berish
 •	Sifat nazorati
