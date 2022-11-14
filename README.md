@@ -1,7 +1,7 @@
 # DEHKANBABA
 Agriculture Hackathon-2022
 
-![alt text](logo.png)
+![alt text](logo.jpg)
 
 •	Dehkanbaba.uz Toshkent shaxrida ombor tashkil qiladi, meva va sabzavotlarni aholiga yetkazib berish uchun mobil ilova orqali buyurtmalarni qabul qiladi va 30-60 minutda kuryer orqali manzilga yetkazib beradi.
 
